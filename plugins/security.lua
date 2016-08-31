@@ -313,7 +313,7 @@ return {
         "@[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz][ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz][ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz][ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz][ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]",
         "[Tt][Ee][Ll][Ee][Gg][Rr][Aa][Mm].[Mm][Ee]/",
         "?[Ss][Tt][Aa][Rr][Tt]=",
-        "^[!/#][Aa][Dd][Vv][Aa][Nn]$",
+        --"^[!/#][Aa][Dd][Vv][Aa][Nn]$",
 	},
 	pre_process = pre_process,
 	run = run
