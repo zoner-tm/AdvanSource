@@ -331,7 +331,7 @@ function cron_plugins()
   postpone (cron_plugins, false, 120)
 end
 
--- Start and load values
+-- Start and load values .
 our_id = 0
 now = os.time()
 math.randomseed(now)
